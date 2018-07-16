@@ -1,5 +1,5 @@
-install all dependencies:
+#install all dependencies:
 npm install
 
-run:
+#run:
 node wallet.js
